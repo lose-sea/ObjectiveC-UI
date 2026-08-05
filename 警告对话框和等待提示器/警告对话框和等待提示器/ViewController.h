@@ -12,6 +12,7 @@
 // 警告对话框
 @property (nonatomic, strong) UIAlertController* alertController;
 // 等待提示器
+
 // 当下载,或加载比较时, 可以显示此控件
 @property (nonatomic, strong) UIActivityIndicatorView* activityIndicator;
 

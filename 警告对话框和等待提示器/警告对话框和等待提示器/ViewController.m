@@ -67,7 +67,7 @@
         // 开始动画
         [_activityIndicator startAnimating];
         // 结束动画
-        [_activityIndicator stopAnimating];
+//        [_activityIndicator stopAnimating];
         
         
         [self.view addSubview: _activityIndicator];
